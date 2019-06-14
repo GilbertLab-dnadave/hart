@@ -1,6 +1,6 @@
 # shart
 
-*S*cripts for *H*igh-throughput *A*nalysis of *R*eplication *T*iming 
+*H*igh-throughput *A*nalysis of *R*eplication *T*iming 
 
 A dockerfile and scripts for executing a semi-automatated repli-seq analysis pipeline
 
